@@ -40,7 +40,7 @@
   - Facebook posts comprises majors source of False news
   <p align="center">
   <a href="https://github.com/Abhineetk/Portfolio-Project">
-    <img alt="Fakenewssources" title="Fakenewssources" src="https://github.com/Abhineetk/Portfolio-Project/blob/master/images/fake_news_sources.PNG?raw=true" width="500" height="400">
+    <img alt="Fakenewssources" title="Fakenewssources" src="https://github.com/Abhineetk/Portfolio-Project/blob/master/images/fake_news_sources.PNG?raw=true" width="600" height="400">
   </a>
 </p>
 
