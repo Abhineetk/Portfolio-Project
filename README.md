@@ -16,8 +16,8 @@
 ## Few Intresting Insights
 
   - Fake news has increased sharply in 2020
-  <p align="center">
-  <a href="https://github.com/Abhineetk/Portfolio-Project>
-    <img alt="FakeNews" title="FakeNews" src="https://github.com/Abhineetk/Portfolio-Project/blob/master/images/fake_news_over_year.PNG" width="600" height="300">
+<p align="center">
+  <a href="https://github.com/KevinLiao159/MyDataSciencePortfolio">
+    <img alt="DataScience" title="DataScience" src="https://github.com/Abhineetk/Portfolio-Project/blob/master/images/fake_news_over_year.PNG?raw=true" width="600" height="300">
   </a>
-  </p>
+</p>
