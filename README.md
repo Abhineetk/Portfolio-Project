@@ -21,3 +21,18 @@
     <img alt="DataScience" title="DataScience" src="https://github.com/Abhineetk/Portfolio-Project/blob/master/images/fake_news_over_year.PNG?raw=true" width="600" height="500">
   </a>
 </p>
+
+  - True news can be seen declining over the years
+  <p align="center">
+  <a href="https://github.com/Abhineetk/Portfolio-Project">
+    <img alt="TrueNews" title="TrueNews" src="https://github.com/Abhineetk/Portfolio-Project/blob/master/images/true_news_over_year.PNG?raw=true" width="600" height="500">
+  </a>
+</p>
+
+  - Facebook posts comprises majors source of False news
+    <p align="center">
+  <a href="https://github.com/Abhineetk/Portfolio-Project">
+    <img alt="Fakenewssources" title="Fakenewssources" src="https://github.com/Abhineetk/Portfolio-Project/blob/master/images/fake_news_sources.PNG?raw=true" width="600" height="500">
+  </a>
+</p>
+
