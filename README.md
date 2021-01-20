@@ -13,6 +13,14 @@
   5. Model
   6. Deployment over Heroku
   
+## Various News Classes present in the Data
+
+<p align="center">
+  <a href="https://github.com/Abhineetk/Portfolio-Project">
+    <img alt="Newscategories" title="Newscategories" src="https://github.com/Abhineetk/Portfolio-Project/blob/master/images/news_categories.PNG?raw=true" width="600" height="500">
+  </a>
+</p>
+  
 ## Few Intresting Insights
 
   - Fake news has increased sharply in 2020
@@ -30,9 +38,9 @@
 </p>
 
   - Facebook posts comprises majors source of False news
-    <p align="center">
+  <p align="center">
   <a href="https://github.com/Abhineetk/Portfolio-Project">
-    <img alt="Fakenewssources" title="Fakenewssources" src="https://github.com/Abhineetk/Portfolio-Project/blob/master/images/fake_news_sources.PNG?raw=true" width="600" height="500">
+    <img alt="Fakenewssources" title="Fakenewssources" src="https://github.com/Abhineetk/Portfolio-Project/blob/master/images/fake_news_sources.PNG?raw=true" width="500" height="500">
   </a>
 </p>
 
